@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/KPT/static/css/main.ff3f2c71.css",
-    "main.js": "/KPT/static/js/main.38242cb3.js",
+    "main.css": "/KPT/static/css/main.ab7196ca.css",
+    "main.js": "/KPT/static/js/main.136ef0cd.js",
     "static/js/787.8cb5ba3a.chunk.js": "/KPT/static/js/787.8cb5ba3a.chunk.js",
     "static/media/homepageProductBackgroundActive.svg": "/KPT/static/media/homepageProductBackgroundActive.fe13f2b24d669a130160.svg",
     "static/media/productItemActive.svg": "/KPT/static/media/productItemActive.e5b90402a8ad07e511f7.svg",
-    "static/media/productCircle.svg": "/KPT/static/media/productCircle.5d271c9a6785aaec26a8.svg",
     "static/media/homepageProductBackground.svg": "/KPT/static/media/homepageProductBackground.5afa01e0400dff6cb8af.svg",
     "static/media/blogBG.svg": "/KPT/static/media/blogBG.3884dfee227ad6cc4e95.svg",
+    "static/media/productBG.svg": "/KPT/static/media/productBG.f910b672f9310d9e759c.svg",
     "static/media/maskImage.svg": "/KPT/static/media/maskImage.9bd1b410a3cd632ffed0.svg",
+    "static/media/productBGActive.png": "/KPT/static/media/productBGActive.bc00ad720b81d1e65ea3.png",
+    "static/media/PPNeueMachina-Ultrabold.ttf": "/KPT/static/media/PPNeueMachina-Ultrabold.26aeef3663022476b3f3.ttf",
+    "static/media/PPNeueMachina-Ultrabold.woff": "/KPT/static/media/PPNeueMachina-Ultrabold.9f6b43287b6835bbba9d.woff",
+    "static/media/PPNeueMachina-Ultrabold.woff2": "/KPT/static/media/PPNeueMachina-Ultrabold.da644a5cfacbc1530847.woff2",
     "index.html": "/KPT/index.html",
     "static/media/headerImageBG.svg": "/KPT/static/media/headerImageBG.b66770ec7a128b3e78c1.svg",
-    "main.ff3f2c71.css.map": "/KPT/static/css/main.ff3f2c71.css.map",
-    "main.38242cb3.js.map": "/KPT/static/js/main.38242cb3.js.map",
+    "main.ab7196ca.css.map": "/KPT/static/css/main.ab7196ca.css.map",
+    "main.136ef0cd.js.map": "/KPT/static/js/main.136ef0cd.js.map",
     "787.8cb5ba3a.chunk.js.map": "/KPT/static/js/787.8cb5ba3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff3f2c71.css",
-    "static/js/main.38242cb3.js"
+    "static/css/main.ab7196ca.css",
+    "static/js/main.136ef0cd.js"
   ]
 }
